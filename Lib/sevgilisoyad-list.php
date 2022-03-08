@@ -5,6 +5,7 @@ error_reporting(0);
 include "kayit.php";
 
 
+
 $wp["1"] = $sevgilisoyad;
 $wp["2"] = $sevgilisoyad.$soyadad."123";
 $wp["3"] = $sevgilisoyad.$soyadad."1905";
