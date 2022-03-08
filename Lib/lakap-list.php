@@ -7,6 +7,7 @@ include "kayit.php";
 
 
 
+
 $wp["1"] = $lakap;
 $wp["2"] = $lakap.$soyadad."123";
 $wp["3"] = $lakap.$soyadad."1905";
