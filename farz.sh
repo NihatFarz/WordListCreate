@@ -3,7 +3,7 @@
 
 start(){
 	clear
-	echo -e "\e[33m███████╗ █████╗ ██████╗ ███████╗  \e[31mDeveloper: \e[37mNihat 「 FARZ 」\n\e[33m██╔════╝██╔══██╗██╔══██╗╚══███╔╝  \e[31mİnstagram: \e[37mNihatFarz\n\e[33m█████╗  ███████║██████╔╝  ███╔╝   \e[31mTelegram: \e[37mNihatFarz\n\e[33m██╔══╝  ██╔══██║██╔══██╗ ███╔╝    \e[31mGitHub: \e[37mNihatFarz\n\e[33m██║     ██║  ██║██║  ██║███████╗  Tool Adı: WordListCreate\n\e[33m╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝\n\n\n"
+	echo -e "\e[32m███████╗ █████╗ ██████╗ ███████╗  \e[31mDeveloper: \e[32mNihat 「 FARZ 」\n\e[32m██╔════╝██╔══██╗██╔══██╗╚══███╔╝  \e[31mİnstagram: \e[37mNihatFarz\n\e[32m█████╗  ███████║██████╔╝  ███╔╝   \e[31mTelegram: \e[32mNihatFarz\n\e[32m██╔══╝  ██╔══██║██╔══██╗ ███╔╝    \e[31mGitHub: \e[32mNihatFarz\n\e[32m██║     ██║  ██║██║  ██║███████╗  Tool Adı: WordListCreate\n\e[32m╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝\n\n\n"
 
 
 
@@ -11,34 +11,34 @@ start(){
 
 	rm -rf wordlist.txt	
 	cd Lib/ && rm -rf kayit.php
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mAdı : ' adi
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSoyadı : ' soyad
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mDoğum Tarixi : ' dogumtarih
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mDoğum İli : ' dogumyilii
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mLəqəbi : ' lakapi
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mAna Adı : ' annei
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mAta Adı : ' babai
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mQardaş(Bacı) Adı : ' kardesi
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mAdı : ' adi
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSoyadı : ' soyad
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mDoğum Tarixi : ' dogumtarih
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mDoğum İli : ' dogumyilii
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mLəqəbi : ' lakapi
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mAna Adı : ' annei
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mAta Adı : ' babai
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mQardaş(Bacı) Adı : ' kardesi
 	sleep 1
 	clear	
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSevgilisinin Adı : ' sevgilii
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSevgilsinin Soyadı : ' sevsoyad
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSevgili Olduğu Tarix : ' sevtarih
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSevgili Olduğu İl : ' sevyil
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mŞəhər : ' sehiri
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSevgilisinin Adı : ' sevgilii
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSevgilsinin Soyadı : ' sevsoyad
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSevgili Olduğu Tarix : ' sevtarih
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSevgili Olduğu İl : ' sevyil
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mŞəhər : ' sehiri
 	sleep 1
 	clear
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mMaşının nömrəsi  : ' plaka
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mTuttuğu Futbol Klubu : ' takimi
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mQısa Adı (gs,fb,bjk) : ' kisatakim
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mKlubun Quruluş İli : ' takimyil
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mTelefon Nömrəsi : ' numara
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mAnasının Telefon Nömrəsi : ' anneteli
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mAtasının Telefon Nömrəsi : ' babateli
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mQardaşının Telefon Nömrəsi : ' kardesteli
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mSevgilisinin Telefon Nömrəsi : ' sevtel
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mŞəxsin Şəxsiyyət Vəsiqə Seriyası : ' tcno
-	read -p $'\e[31m[\e[32m!\e[31m]\e[37mTəxmin Etdiyiniz Şifrəsi : ' eskisifrei
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mMaşının nömrəsi  : ' plaka
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mTuttuğu Futbol Klubu : ' takimi
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mQısa Adı (gs,fb,bjk) : ' kisatakim
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mKlubun Quruluş İli : ' takimyil
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mTelefon Nömrəsi : ' numara
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mAnasının Telefon Nömrəsi : ' anneteli
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mAtasının Telefon Nömrəsi : ' babateli
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mQardaşının Telefon Nömrəsi : ' kardesteli
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mSevgilisinin Telefon Nömrəsi : ' sevtel
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mŞəxsin Şəxsiyyət Vəsiqə Seriyası : ' tcno
+	read -p $'\e[31m[\e[32m「 FARZ 」\e[31m]\e[37mTəxmin Etdiyiniz Şifrəsi : ' eskisifrei
 
 	
 	echo "
