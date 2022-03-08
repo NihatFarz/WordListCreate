@@ -30,7 +30,7 @@
 
 
 # QEYD
-* 1/Tool sadəcə Windows,Ubuntu və Termux F-Droid (Yükləmək üçün (https://f-droid.org/en/packages/com.termux/)) versiyada işləyir.
+* 1/Tool sadəcə Ubuntu və Termux F-Droid (Yükləmək üçün (https://f-droid.org/en/packages/com.termux/)) versiyada işləyir.
                                 (Play marketdən yüklənilən Termuxlarda işləməyə vəya işləyən zaman xətalar çıxa bilər)
     <br>
 
