@@ -6,7 +6,6 @@ include "kayit.php";
 
 
 
-
 $wp["1"] = $sevgilitel;
 $wp["2"] = $sevgilitel.$soyadad."123";
 $wp["3"] = $sevgilitel.$soyadad."1905";
