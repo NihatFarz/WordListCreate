@@ -8,7 +8,6 @@ include "kayit.php";
 
 
 
-
 $wp["1"] = $babatel;
 $wp["2"] = $babatel.$soyadad."123";
 $wp["3"] = $babatel.$soyadad."1905";
