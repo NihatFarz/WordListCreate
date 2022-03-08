@@ -37,25 +37,26 @@
   Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını yazıb) WordList yaradırsınız 
 ```
 
-    <br>
-    <br>
+<br>
+<br>
    
 <p align="center">    
 WordList yardaraq sosial şəbəkələr,oyunlar vəya hər hansısa sistemlərə BruteForce Attack-lar edə bilərsiniz. BruteForce Attack haqqında  və BruteForce Attack etmək üçün digər Tool-dan istifadə edə bilərsiniz.
 <p align="center">    
 BruteForce Attack-----------https://github.com/NihatFarz/BruteForce
 
-    <br>
-    <br>
-    <br>
+<br>
+<br>
+<br>
 
 # QEYD
 * 1/Tool sadəcə Ubuntu və Termux F-Droid (Yükləmək üçün (https://f-droid.org/en/packages/com.termux/)) versiyada işləyir.
                                 (Play marketdən yüklənilən Termuxlarda işləməyə vəya işləyən zaman xətalar çıxa bilər)
-    <br>
+<br>
 
 * 2/Əyər Termux yeni yükləyirsinizsə bu linkə (https://github.com/NihatFarz/Termux-Basic-Commands) keçid edərək təməl termux qurulumun edin.
-    <br>
+
+<br>
 
    
    
