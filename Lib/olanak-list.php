@@ -30,7 +30,7 @@ $wp["23"] = $eskisifre.$takimtarihi;
 $wp["24"] = $eskisifre.$takimkisa;
 $wp["25"] = $eskisifre.$plaka;
 
-/////////////////////////////////////////
+//////////////////////////////////////////
 
 $wp["26"] = $sevgili."123";
 $wp["27"] = $sevgili."123";
