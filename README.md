@@ -21,12 +21,18 @@
 🇱🇷-Copy the following codes to Termux for Setup. 
  <br>
  
-1- `git clone https://github.com/NihatFarz/WordListCreate.git`
+1/
+```
+  git clone https://github.com/NihatFarz/WordListCreate.git
+```
   
   
-2- `bash farz.sh`
+2/
+```
+  bash farz.sh
+```
  
-3- Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını) WordList yaradırsınız  
+3- Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını yazıb) WordList yaradırsınız  
 
 
 # QEYD
