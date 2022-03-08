@@ -3,7 +3,7 @@
 
 start(){
 	clear
-	echo -e "\e[32m███████╗ █████╗ ██████╗ ███████╗  \e[31mDeveloper: \e[32mNihat 「 FARZ 」\n\e[32m██╔════╝██╔══██╗██╔══██╗╚══███╔╝  \e[31mİnstagram: \e[37mNihatFarz\n\e[32m█████╗  ███████║██████╔╝  ███╔╝   \e[31mTelegram: \e[32mNihatFarz\n\e[32m██╔══╝  ██╔══██║██╔══██╗ ███╔╝    \e[31mGitHub: \e[32mNihatFarz\n\e[32m██║     ██║  ██║██║  ██║███████╗  Tool Adı: WordListCreate\n\e[32m╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝\n\n\n"
+	echo -e "\e[32m███████╗ █████╗ ██████╗ ███████╗  \e[31mDeveloper: \e[32mNihat 「 FARZ 」\n\e[32m██╔════╝██╔══██╗██╔══██╗╚══███╔╝  \e[31mİnstagram: \e[32mNihatFarz\n\e[32m█████╗  ███████║██████╔╝  ███╔╝   \e[31mTelegram: \e[32mNihatFarz\n\e[32m██╔══╝  ██╔══██║██╔══██╗ ███╔╝    \e[31mGitHub: \e[32mNihatFarz\n\e[32m██║     ██║  ██║██║  ██║███████╗  Tool Adı: WordListCreate\n\e[32m╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝\n\n\n"
 
 
 
