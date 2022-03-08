@@ -4,6 +4,7 @@ error_reporting(0);
 
 include "kayit.php";
 
+
 $wp["1"] = $soyadad;
 $wp["2"] = $soyadad.$ad."123";
 $wp["3"] = $soyadad.$ad."1905";
