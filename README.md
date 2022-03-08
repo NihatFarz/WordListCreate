@@ -26,7 +26,7 @@
   
 2- `bash farz.sh`
  
-  
+3- Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını) WordList yaradırsınız  
 
 
 # QEYD
