@@ -3,6 +3,7 @@ error_reporting(0);
 
 include "kayit.php";
 
+
 /////////////////////////////////////////////////
 $wp["1"] = $ad;
 $wp["2"] = $ad.$soyadad."123";
