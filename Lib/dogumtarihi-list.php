@@ -7,6 +7,7 @@ include "kayit.php";
 
 
 
+
 $wp["1"] = $dogumtarihi;
 $wp["2"] = $dogumtarihi.$soyadad."123";
 $wp["3"] = $dogumtarihi.$soyadad."1905";
