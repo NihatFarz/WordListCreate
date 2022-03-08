@@ -32,7 +32,10 @@
   bash farz.sh
 ```
  
-3- Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını yazıb) WordList yaradırsınız  
+3/
+```
+  Açılan ekranda verilən sullara düzgün şəkildə cavab verərək (qarşı tərəfin məlumatlarını yazıb) WordList yaradırsınız 
+```
 
 
 # QEYD
