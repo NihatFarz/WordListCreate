@@ -7,6 +7,7 @@ include "kayit.php";
 
 
 
+
 $wp["1"] = $kardestel;
 $wp["2"] = $kardestel.$soyadad."123";
 $wp["3"] = $kardestel.$soyadad."1905";
